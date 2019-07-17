@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <h1>View Quote {{ $quote->quote_number }}</h1>
+    <h1>View My Quotes {{ $quote->quote_number }}</h1>
     <br>
     <br>
     <div class="container">
